@@ -3,7 +3,7 @@ title: 低利率时代,用红利策略规划养老!
 description: 张雷老师讲养老规划
 slug: 国信大咖说
 date: 2024-12-05 16:30:00+0000
-image: cover.png
+image: cover.jpg
 categories:
     - 国信大咖说
 tags:

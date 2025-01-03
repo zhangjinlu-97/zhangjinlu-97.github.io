@@ -3,7 +3,7 @@ title: 风格会不会切换?
 description: 李昱兵讲风格
 slug: 国信大咖说
 date: 2024-11-25 19:00:00+0000
-image: cover.png
+image: cover.jpg
 categories:
     - 国信大咖说
 tags:

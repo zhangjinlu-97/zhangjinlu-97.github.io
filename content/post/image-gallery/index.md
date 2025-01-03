@@ -3,7 +3,7 @@ title: 豆包爆火,如何把握产业链机会?
 description: 豆包爆火,如何把握产业链机会
 slug: 每日晨会
 date: 2024-12-20 08:30:00+0000
-image: cover.png
+image: cover.jpg
 categories:
     - 每日晨会
 tags:

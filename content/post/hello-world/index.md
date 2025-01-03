@@ -3,7 +3,7 @@ title: 组合拳解盘--技术复盘
 description: 金文迪技术分析
 slug: 技术复盘
 date: 2024-12-31 15:00:00+0000
-image: cover.png
+image: cover.jpg
 categories:
     - 国信大咖说
 tags:

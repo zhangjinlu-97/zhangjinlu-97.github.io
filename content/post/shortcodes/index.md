@@ -3,7 +3,7 @@ title: 下一步投资如何布局?
 description: 李海霞老师讲投资布局
 slug: 每日晨会
 date: 2024-10-06 08:30:00+0000
-image: cover.png
+image: cover.jpg
 categories:
     - 每日晨会
 tags:
