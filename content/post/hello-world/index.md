@@ -11,6 +11,6 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-![cover.jpg]()
+![回放链接](cover.jpg)
 
 本次直播的内容是组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘组合拳解盘--技术复盘。
