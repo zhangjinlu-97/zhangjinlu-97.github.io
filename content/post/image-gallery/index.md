@@ -1,22 +1,15 @@
 ---
-title: Image gallery
-description: Create beautiful interactive image gallery using Markdown
-date: 2023-08-26 00:00:00+0000
+title: 豆包爆火,如何把握产业链机会?
+description: 豆包爆火,如何把握产业链机会
+slug: 每日晨会
+date: 2024-12-20 08:30:00+0000
 image: 2.jpg
+categories:
+    - 每日晨会
+tags:
+    - 产业链
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-
-Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
-
-To use this feature, the image must be in the same directory as the Markdown file, as it uses Hugo's page bundle feature to read the dimensions of the image. **External images are not supported.**
-
-## Syntax
-
-```markdown
-![Image 1](1.jpg) ![Image 2](2.jpg)
-```
-
-## Result
-
-![Image 1](1.jpg) ![Image 2](2.jpg)
-
-> Photo by [mymind](https://unsplash.com/@mymind) and [Luke Chesser](https://unsplash.com/@lukechesser) on [Unsplash](https://unsplash.com/)
+豆包爆火,如何把握产业链机会?
+本次直播内容：豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?
+豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?豆包爆火,如何把握产业链机会?
