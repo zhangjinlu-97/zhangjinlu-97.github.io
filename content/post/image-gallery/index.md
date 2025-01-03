@@ -1,6 +1,6 @@
 ---
-title: 豆包爆火,如何把握产业链机会?
-description: 2024-12-20直播回放
+title: 2024-12-20 豆包爆火,如何把握产业链机会?
+description: 李海霞老师直播
 slug: 每日晨会
 date: 2024-12-20 08:30:00+0000
 image: cover.jpg

@@ -1,6 +1,6 @@
 ---
-title: 风格会不会切换?
-description: 2024-12-25直播回放
+title: 2024-12-25 风格会不会切换?
+description: 李昱兵老师直播
 slug: 国信大咖说
 date: 2024-12-25 19:00:00+0000
 image: cover.jpg

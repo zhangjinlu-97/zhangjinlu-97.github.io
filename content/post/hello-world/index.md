@@ -1,6 +1,6 @@
 ---
-title: 组合拳解盘--技术复盘
-description: 2024-12-31直播回放
+title: 2024-12-31 组合拳解盘--技术复盘
+description: 金文迪老师直播
 slug: 技术复盘
 date: 2024-12-31 15:00:00+0000
 image: cover.jpg
